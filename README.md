@@ -1,4 +1,3 @@
-![SODEC Dashboard](visuals/dashboard.png)
 # sodec-data-analysis
 Cleaning and visualizing publicly available SODEC annual report data to create a user-friendly analytics tool for artists and cultural organizations.
 # SODEC Data Analysis Project
