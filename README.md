@@ -33,7 +33,8 @@ that help stakeholders understand funding trends and opportunities.
 - Provided a simple dashboard for data exploration
 
 ## Dashboard Preview
-(Add screenshots here)
+<img width="2438" height="1114" alt="Dashboard" src="https://github.com/user-attachments/assets/51c88615-910a-469c-a531-ce1c04a08cc8" />
+
 
 ## Files
 - `SODEC_master_cleaned.xlsx` – cleaned dataset
