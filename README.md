@@ -1,4 +1,3 @@
-Dashboard Preview
 
 ![SODEC Dashboard](visuals/dashboard.png)
 
